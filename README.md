@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luciano! <br/><a href="https://github.com/LucianoMJunior/LucianoMJunior">Programmer</a>, <a href="https://www.linkedin.com/in/lucianomillewskijunior/">Cybersecurity Professional</a>
+<h1>Hi, I'm Luciano! <br/><a href="https://github.com/LucianoMJunior/LucianoMJunior">Programmer Student</a>, <a href="https://www.linkedin.com/in/lucianomillewskijunior/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
